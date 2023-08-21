@@ -1576,7 +1576,12 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6JlvKoDh6l6.6XEAgDJJiQi" displaytext="Untitled Slide" expand="false" type="slide" />
+        <slidelink slideid="_player.6JlvKoDh6l6" displaytext="Speech Recognition" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6JlvKoDh6l6.6bcLYv9DMAn" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6JlvKoDh6l6.6XEAgDJJiQi" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
